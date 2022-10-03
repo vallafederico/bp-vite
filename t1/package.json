@@ -11,5 +11,8 @@
   "devDependencies": {
     "vite": "^3.1.0",
     "vite-plugin-glsl": "^0.4.0"
+  },
+  "dependencies": {
+    "tiny-emitter": "^2.1.0"
   }
 }
